@@ -1,7 +1,9 @@
 #folder{
-    margin-left: 232px;
-    height: 30px;
-    width: 1010px;
+    margin-left: 17vw;
+    margin-top: 2vh;
+    height: 7vh;
+    width: 60vw;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 #folder:active{
@@ -9,19 +11,22 @@
 }
 
 #folder img{
-    height: 20px;
-    margin-left: 8.8px;
-    margin-top: 5px;
-    margin-bottom: 5px;
+    height: 6vh;
+    margin-left: 1vw;
+    margin-top: 0.8vh;
+    margin-bottom: 1vh;
     float: left;
 }
 
 #folder h1{
-    font-size:25px;
-    margin-left: 30px;
+    font-size:3.5vh;
+    margin-top: 3vh;
+    margin-left: 3vw;
     font-weight: lighter;
 }
 
 a{
     color: #e9ffe9;
+    width: 60vw;
+    display:block
 }
