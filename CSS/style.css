@@ -6,3 +6,32 @@ body{
 i{
     color:white;
 }
+
+#info{
+    float:left;
+    font-size: 2.5vh;
+    height: 200vh;
+}
+
+#info h1{
+    margin-left: 1vw;
+    margin-top: -0.9vh;
+}
+
+#info h2{
+    margin-left: 3.3vw;
+    font-size: 3vh;
+}
+
+#otherLine{
+    margin-left: 1vw;
+    font-size: 3vh;
+    margin-top: -2vh;
+
+}
+
+#info img{
+    margin-top: -3vh;
+    margin-left: 3.5vw;
+    height: 20vh;
+}
